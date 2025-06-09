@@ -4,8 +4,8 @@
 
 ## 🔧 預覽
 
-部署後可於以下網址查看(https://athenajc.github.io/tai-talk-web/)（需啟用 GitHub Pages）：
-
+部署後可於以下網址查看(需啟用 GitHub Pages）：
+[查看](https://athenajc.github.io/tai-talk-web/)
 ```
 https://athenajc.github.io/tai-talk-web/
 ```
